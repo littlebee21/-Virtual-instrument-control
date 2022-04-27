@@ -1,0 +1,7 @@
+C:\Users\Weng_Seals\Desktop\123\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\Weng_Seals\Desktop\123\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\Weng_Seals\Desktop\123\ZGraph\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+C:\Users\Weng_Seals\Desktop\123\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\Weng_Seals\Desktop\123\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\Weng_Seals\Desktop\123\ZGraph\ZGraph\obj\Debug\ZGraph.pdb
+C:\Users\Weng_Seals\Desktop\123\ZGraph\ZGraph\obj\Debug\ZvGraph.UI.ZGraph.resources

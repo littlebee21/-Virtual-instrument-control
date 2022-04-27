@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\bin\Release\SerialAssistant.exe
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\bin\Release\SerialAssistant.pdb
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\bin\Release\ZvGraph.dll
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\bin\Release\ZvGraph.pdb
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\obj\Release\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\obj\Release\SerialAssistant.Form1.resources
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\obj\Release\SerialAssistant.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\obj\Release\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\obj\Release\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\obj\Release\SerialAssistant.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\obj\Release\SerialAssistant.exe
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\obj\Release\SerialAssistant.pdb
+C:\Users\Administrator\Desktop\SerialAssistant-master\SerialAssistant\obj\Release\SerialAssistant.指令帮助.resources
